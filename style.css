@@ -446,7 +446,7 @@ h4 {
 }
 
 .v-right {
-  background: linear-gradient(135deg, #f6efe1, #fff);
+  background-image: url('golden-background.avif');
   border: 1px solid var(--sand);
 }
 
